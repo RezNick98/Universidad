@@ -1,0 +1,127 @@
+package practico_3;
+
+import java.time.LocalDate;
+
+public class Persona {
+	private String nombre;
+	private String apellido;
+	private int edad;
+	private double peso;
+	private double altura;
+	private int DNI;
+	private LocalDate fechadenacimiento;
+	private String sexo;
+	
+	public Persona(int DNI) {
+		this.DNI=DNI;
+		nombre="N";
+		apellido="N";
+		edad=1;
+		sexo="Femenino";
+		fechadenacimiento= LocalDate.of (2000,1,1);
+		peso=1.0;
+		altura=1.0;
+	}
+	public Persona(int DNI,String nombre,String apellido) {
+		this.DNI=DNI;
+		this.nombre=nombre;
+		this.apellido=apellido;
+		edad=1;
+		sexo="Femenino";
+		fechadenacimiento=LocalDate.of(2000, 1, 1);
+		peso=1.0;
+		altura=1.0;
+	}
+	public Persona(int DNI,String nombre,String apellido,LocalDate fechadenacimiento) {
+		this.DNI=DNI;
+		this.nombre=nombre;
+		this.apellido=apellido;
+		this.fechadenacimiento=fechadenacimiento;
+		edad=1;
+		peso=1.0;
+		altura=1.0;
+		sexo="Femenino";
+	}
+	
+	
+	
+	public String getNombre() {
+		return nombre;
+	}
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	public String getApellido() {
+		return apellido;
+	}
+	public void setApellido(String apellido) {
+		this.apellido = apellido;
+	}
+	public int getEdad() {
+		return edad;
+	}
+	public void setEdad(int edad) {
+		this.edad = edad;
+	}
+	public double getPeso() {
+		return peso;
+	}
+	public void setPeso(double peso) {
+		this.peso = peso;
+	}
+	public double getAltura() {
+		return altura;
+	}
+	public void setAltura(double altura) {
+		this.altura = altura;
+	}
+	public int getDNI() {
+		return DNI;
+	}
+
+	public String getSexo() {
+		return sexo;
+	}
+	public void setSexo(String sexo) {
+		this.sexo = sexo;
+	}
+	public LocalDate getFechadenacimiento() {
+		return fechadenacimiento;
+	}
+	public void setFechadenacimiento(LocalDate fechadenacimiento) {
+		this.fechadenacimiento = fechadenacimiento;
+	}
+	public double getMasaCorporal(double peso,double altura) {
+		return peso/altura*altura;
+	}
+	public boolean GoodShape(double getMasaCorporal){
+		if((getMasaCorporal>18.5) || (getMasaCorporal<25)) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	public boolean fulfillingyears(LocalDate Fechadenacimiento) {
+		if (this.getFechadenacimiento()==fechadenacimiento.withDayOfMonth(0)){
+			return true;
+		}else {
+			return false;
+		}
+	}
+	public boolean IsAdult(int edad) {
+		if (edad>18) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	public boolean CanVote(int edad) {
+		if (edad>16) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	
+}
