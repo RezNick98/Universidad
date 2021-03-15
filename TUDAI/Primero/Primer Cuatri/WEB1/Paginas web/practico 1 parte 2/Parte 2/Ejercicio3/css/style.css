@@ -1,0 +1,10 @@
+input{
+    display: flex;
+    margin: 15px;
+    margin-left: 10%;
+}
+
+.submit{
+    display: flex;
+    margin-right: 10%;
+}
