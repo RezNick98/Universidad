@@ -1,0 +1,13 @@
+TEMA 2 
+
+El arreglo NUMENT de  enteros de  dimensión  MAX ya está cargado completamente con números positivos entre 1 y 9 comenzando en la primer posición hasta la posición MAX.  Detectar la última serie de  números consecutivos cuya suma sea igual a SUMA. Si se la detecta  se la debe duplicar pegada a la derecha de la serie encontrada, haciendo un desplazamiento a la derecha de los números siguientes conservando su orden y perdiendo los últimos.  Si no hay lugar para realizar la duplicación no se hace la duplicación y avisa por pantalla. SUMA es un número entero que se le debe solicitar al usuario y debe controlar que el mismo sea mayor o igual a 10, de lo contrario solicitarlo de nuevo hasta que ingrese un valor válido. Debe definir programa principal,  las constantes y  tipos. Suponer que el arreglo ya está  cargado y además no debe mostrarse al finalizar el proceso. No usar estructuras auxiliares.
+
+Ej: SUMA= 12         Arreglo original:               3 5 6 7 3 8 4 5 3 8 7 1 8 9  
+
+                                 Arreglo modificado:          3 5 6 7 3 8 4 5 3 4 5 3 8 7
+
+Ej: SUMA = 12        Arreglo original:                9 3 7 3 5 6 7 3 8 4 5 3 8 9           
+
+                                  Arreglo resultante final:    9 3 7 3 5 6 7 3 8 4 5 3 8 9 
+
+                                                                        - “Faltó Espacio para duplicar”-

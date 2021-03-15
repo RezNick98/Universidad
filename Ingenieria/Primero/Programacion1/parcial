@@ -1,0 +1,12 @@
+TEMA 4 
+Codificar en Pascal el programa principal (con constantes, tipos y variables) y todos los procedimientos/funciones  que considere necesario para:
+Dado un arreglo completo con caracteres llamado LETRAS de longitud MaxLET,
+y un caracter leido por teclado llamado CAR
+Detecte la  repetición consecutiva de  CAR  de menor longitud  en LETRAS y desplace esa repetición hacia el final del Arreglo pasando las letras posteriores a antes de la repetición y manteniendo su orden. El carácter puede no estar en el arreglo. Si la repetición mínima está más de una vez debe tomar la última. Una sola ocurrencia del carácter NO es repetición consecutiva.Asuma en el programa principal que existen los procedimientos de carga de arreglos y para mostrar los resultados (es decir, no los implemente). No usar estructuras auxiliares.  Pueden escribir como comentarios la  estrategia utilizada, así como también cualquier otra consideración que haya asumido
+
+Ejemplo
+Entrada             LETRAS:{AYCYYJKLYYYMYYABC}  CAR: Y      
+Salida:              LETRAS {AYCYYJKLYYYMABCYY}
+________________________________________________________________
+
+

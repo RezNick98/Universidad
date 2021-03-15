@@ -1,0 +1,14 @@
+Se tiene un arreglo NUMENSEC de enteros positivos de longitud Max que forman secuencias, separadas por uno o más ceros. Se desea buscar la secuencia mayor en cuanto a la sumatoria de sus elementos  e invertir sus elementos.  Si se detecta más de una secuencia mayor, considerar la primera.
+
+Nota: El arreglo puede ó no  empezar y terminar con ceros.   No se puede utilizar estructuras auxiliares. Codifique la solución.No es necesario hacer los módulo de carga y muestra del arreglo. 
+
+EJEMPLO,
+
+Si se recibe este arreglo: 0 9 9 0 0 7 3 8 9 0 0 0 9 7 2 0 0 0 0 3 5 2 1 4 0 0 0 2 6 3  
+
+El arreglo quedaría:         0 9 9 0 0 9 8 3 7 0 0 0 9 7 2 0 0 0 0 3 5 2 1 4 0 0 0 2 6 3  
+
+
+ si se recibe este arreglo:  0 7 2 3 8 9 0 0 0 2 1 7 2 0 0 0 0 3 5 2 1 4 0 0 0 1 2 2 5 3 
+
+El arreglo quedaría:           0 9 8 3 2 7 0 0 0 2 1 7 2 0 0 0 0 3 5 2 1 4 0 0 0 1 2 2 5 3 
