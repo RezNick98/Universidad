@@ -1,0 +1,25 @@
+package Parte1;
+import java.io.*;
+public class ejercicio2 {
+static final double CONST=1.0;
+	public static void main(String[] args) {
+		BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
+		try {
+			double num1,num2,num3;
+			num1=2.5;
+			num2=3.8;
+			num3=1.5;
+			System.out.println("El valor de num1 es: "+num1+" El valor de num2 es: "
+			+num2+" El valor de num3 es: "+num3+" Y el valor constante es: "+CONST);
+			num1=CONST;
+			num2=num1;
+			num3=num1;
+			System.out.println("Ahora los valores son: "+num1+ num2+ num3);
+			
+		}
+		catch(Exception exc){
+			
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+package Parte1;
+import java.io.*;
+public class ejercicio1 {
+
+	public static void main(String[] args) {
+		int num1;
+		double num2;
+		boolean TOF;
+		char letra;
+		BufferedReader entrada = new BufferedReader(null);
+		num1 = 1;
+		num2 = 2.5;
+		TOF= true;
+		letra = 'r';
+		System.out.println("El numero integer es: "+num1);
+		System.out.println("El numero doubble es: "+num2);
+		System.out.println("El valor booleano es: "+TOF);
+		System.out.println("El caracter es: "+letra);
+
+	}
+
+}
