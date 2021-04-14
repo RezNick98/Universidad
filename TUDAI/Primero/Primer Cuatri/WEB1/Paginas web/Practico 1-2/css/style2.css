@@ -1,0 +1,37 @@
+.Header{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+}
+.Content{
+    display: flex;
+    height: 400px;
+    background-color: aquamarine;
+    justify-content: space-between;
+    padding: 5px;
+}
+.Footer{
+    background-color: aquamarine;
+}
+.Header,.Footer,.Content{
+    border-style: solid;
+}
+.Botonera{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin: 10px;
+}
+.Left{
+    display: flex;
+    align-items: flex-end;
+    background-color: orange;
+    width:50%;
+}
+.Right{
+    display: flex;
+    align-items: flex-end;
+    background-color: yellow;
+    width: 48%;
+}
