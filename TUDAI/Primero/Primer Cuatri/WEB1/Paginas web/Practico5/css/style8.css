@@ -1,0 +1,28 @@
+:root{
+    --header:#fd0094
+}
+header{
+    display: flex;
+    background-color: var(--header);
+}
+section{
+    padding-bottom:8%;
+    display: flex;
+    background-color: orange;
+    flex-direction: column;
+}
+aside{
+    display: flex;
+    background-color:orchid ;
+    flex-direction: column;
+
+}
+footer{
+    display: flex;
+    background-color: lightblue;
+}
+@media only screen and (min-width:600px){
+    section{
+        
+    }
+}
