@@ -1,9 +1,7 @@
-:root{
-    --header:#fd0094
-}
+
 header{
     display: flex;
-    background-color: var(--header);
+    background-color: #fd0094
 }
 section{
     padding-bottom:8%;
@@ -22,7 +20,16 @@ footer{
     background-color: lightblue;
 }
 @media only screen and (min-width:600px){
-    section{
+    header{
+        display: flex;
+        background-color: #fd0094;
         
+    }
+    .contenido{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    footer{
+        display: flex;
     }
 }
