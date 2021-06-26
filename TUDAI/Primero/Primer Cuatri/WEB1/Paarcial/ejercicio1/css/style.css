@@ -1,0 +1,43 @@
+h1{
+    border: solid;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding: 50px;
+}
+@media only screen and (min-width:600px){
+    h1{
+        display: grid;
+        grid-template-areas: 
+        "A"
+        "B"
+        "C"
+        "D"
+        "E";
+    }
+    .A{
+        grid-area:A;
+    }
+    .B{
+        grid-area:B;
+    }
+    .C{
+        grid-area: C;
+    }
+    .D{
+        grid-area: D;
+    }
+    .E{
+        grid-area: E;
+    }
+
+    .container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "A A"
+            "B B"
+            "C D"
+            "E E"
+    }
+}
