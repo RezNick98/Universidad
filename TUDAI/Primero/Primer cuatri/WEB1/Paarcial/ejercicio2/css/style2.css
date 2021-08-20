@@ -1,0 +1,13 @@
+.contenido{
+    color: gray;
+}
+nav a{
+    color: blue;
+}
+h1,h2 ,h3{
+    border-bottom: solid;
+    font-weight: bolder;
+}
+header img{
+    border: 2px orange;
+}

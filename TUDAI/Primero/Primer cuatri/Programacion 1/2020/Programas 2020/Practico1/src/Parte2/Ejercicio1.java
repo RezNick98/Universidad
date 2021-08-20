@@ -1,0 +1,25 @@
+package Parte2;
+import java.io.*;
+public class Ejercicio1 {
+static final double PI=3.14159265359;
+	public static void main(String[] args) {
+		double circulo,triangulo,r,lado1,lado2,lado3;
+		BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
+		try {
+				System.out.print("Necesito un radio para dibujar el circulo");
+				r=Double.valueOf(entrada.readLine());
+				circulo=PI*(r*r);
+				System.out.println("El circulo es: "+circulo);
+				System.out.println("Para el triangulo necesito los 3 lados");
+				lado1=Double.valueOf(entrada.readLine());
+				lado2=Double.valueOf(entrada.readLine());
+				lado3=Double.valueOf(entrada.readLine());
+				System.out.println("Para dibujar un triangulo necesitas un lado de: "+lado1+
+				" Otro lado de: "+lado2+" Y el ultimo lado es de : "+lado3);
+		}catch(Exception exc) {
+			
+		}
+
+	}
+
+}

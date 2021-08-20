@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/ezequiel/Escritorio/Universidad/TUDAI/Primero/Segundo cuatri/Programacion 2/Programas/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+1057112212.index

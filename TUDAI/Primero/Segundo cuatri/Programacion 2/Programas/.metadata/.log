@@ -1,0 +1,2200 @@
+!SESSION 2020-10-03 11:32:07.044 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_265
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:46:32.680
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:46:32.701
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:46:54.039
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:46:54.039
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:47:07.046
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:47:07.046
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:47:07.883
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:47:07.884
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:58:44.924
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:58:44.925
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:58:50.085
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:58:50.085
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:00.139
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:00.139
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:06.581
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:06.581
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:12.293
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:12.293
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:20.612
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:20.613
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:23.197
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:23.198
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:51.180
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:51.180
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:51.469
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:51.469
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 11:59:56.796
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 11:59:56.797
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:00:56.107
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:00:56.107
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:00:56.202
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:00:56.202
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:00:59.976
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:00:59.976
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:01.573
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:01.574
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:02.381
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:02.381
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:03.402
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:03.402
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:05.674
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:05.674
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:06.694
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:06.695
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:06.799
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:06.799
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:06.989
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:06.989
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:07.082
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:07.082
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:07.231
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:07.231
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:07.367
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:07.368
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:08.369
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:08.370
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:08.471
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:08.471
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:08.651
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:08.651
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:01:20.083
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:01:20.083
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:02:00.266
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:02:00.267
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:03:31.257
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:03:31.258
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:03:31.402
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:03:31.402
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:09:16.812
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:09:16.812
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:09:17.041
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:09:17.041
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:09:36.826
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:09:36.826
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:09:41.513
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:09:41.513
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:09:52.669
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:09:52.670
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:09:53.681
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:09:53.682
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:11:08.823
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:11:08.823
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:11:15.133
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:11:15.134
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:11:16.789
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:11:16.789
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:11:17.081
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:11:17.081
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:41.150
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:41.151
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:41.871
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:41.871
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:41.928
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:41.929
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:43.096
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:43.096
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:43.838
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:43.838
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:44.302
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:44.302
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:45.663
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:45.664
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:45.853
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:45.853
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:46.034
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:46.034
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:47.212
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:47.213
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:47.452
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:47.453
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:49.872
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:49.872
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:50.039
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:50.040
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:50.233
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:50.234
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:50.366
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:50.367
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:50.533
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:50.533
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:50.711
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:50.712
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:51.033
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:51.033
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:51.607
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:51.607
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:51.815
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:51.815
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:52.236
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:52.236
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:52.404
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:52.405
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:52.581
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:52.581
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:52.728
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:52.728
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:52.889
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:52.889
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:53.058
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:53.058
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:54.787
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:54.787
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:12:55.306
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:12:55.307
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:14.955
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:14.955
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:16.039
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:16.039
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:16.598
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:16.598
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:16.898
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:16.898
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:17.208
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:17.208
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:17.515
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:17.516
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:18.204
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:18.204
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:18.407
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:18.407
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:18.557
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:18.558
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:18.774
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:18.774
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:18.960
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:18.960
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:19.151
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:19.151
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:19.300
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:19.300
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:19.741
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:19.741
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:20.244
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:20.245
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:24.618
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:24.618
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:24.799
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:24.800
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:24.962
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:24.963
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:25.118
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:25.119
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:25.262
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:25.262
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:13:26.864
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:13:26.864
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:14:45.954
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:14:45.954
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:14:48.068
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:14:48.069
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:14:50.546
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:14:50.546
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:14:50.682
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:14:50.682
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:14:50.873
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:14:50.873
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:14:51.189
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:14:51.189
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:27:24.759
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:27:24.759
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:27:25.911
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:27:25.911
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:27:27.421
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:27:27.421
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:27:29.667
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:27:29.668
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-10-03 12:27:29.830
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:630)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocBaseLocation(JavaDocLocations.java:203)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getJavadocLocation(JavaDocLocations.java:222)
+	at org.eclipse.jdt.ui.JavaUI.getJavadocLocation(JavaUI.java:1039)
+	at org.eclipse.jdt.internal.corext.javadoc.JavaDocLocations.getBaseURL(JavaDocLocations.java:463)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:596)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2020-10-03 12:27:29.831
+!MESSAGE /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar is not on its project's build path
+!SESSION 2020-10-03 15:12:27.361 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.1
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-10-03 15:12:59.057
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-03 15:12:59.057
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46188a89,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f65a203,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-10-03 15:13:05.478
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.gef.ui.palette_view" id and the "Palette" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-10-03 15:13:05.523
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.builds.navigator.builds" id and the "Builds" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-10-03 15:13:05.524
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.commons.repositories.ui.navigator.Repositories" id and the "Team Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-10-03 15:13:05.525
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.tasks" id and the "Task List" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-10-03 15:13:05.526
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.tasks.ui.views.repositories" id and the "Task Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-10-03 15:13:05.557
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.common.snippets.internal.ui.SnippetsView" id and the "Snippets" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2020-10-03 15:40:47.553 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.1
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-10-03 15:40:58.942
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-03 15:40:58.943
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e95f584,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54997f67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.jobs 4 2 2020-10-03 15:41:13.768
+!MESSAGE An internal error occurred during: "Deferred Early Start".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.runtime.InternalPlatform.getLog(InternalPlatform.java:365)
+	at org.eclipse.core.runtime.Plugin.getLog(Plugin.java:237)
+	at org.eclipse.oomph.util.OomphPlugin.getLog(OomphPlugin.java:221)
+	at org.eclipse.oomph.util.OomphPlugin.log(OomphPlugin.java:236)
+	at org.eclipse.oomph.util.OomphPlugin.log(OomphPlugin.java:247)
+	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:122)
+	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2020-12-02 17:33:10.431 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-02 17:33:56.015
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-02 17:33:56.016
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@71285693,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3199a202,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.resources 2 2 2020-12-02 17:37:58.576
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-12-02 17:37:58.576
+!MESSAGE The project description file (.project) for 'Practico3' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2020-12-02 17:40:45.166 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-02 17:40:58.975
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-02 17:40:58.975
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e95b0ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5876bed9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2021-02-24 14:29:38.969 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=11.0.10
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 4 567 2021-02-24 14:30:16.266
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2021-02-24 14:30:16.266
+!MESSAGE Could not read metadata for 'practico3'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/home/ezequiel/Escritorio/Universidad/TUDAI/Primero/Segundo cuatri/Programacion 2/Programas/.metadata/.plugins/org.eclipse.core.resources/.projects/practico3/1.tree)[568]: java.io.FileNotFoundException: /home/ezequiel/Escritorio/Universidad/TUDAI/Primero/Segundo cuatri/Programacion 2/Programas/.metadata/.plugins/org.eclipse.core.resources/.projects/practico3/1.tree (No existe el archivo o el directorio)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at org.eclipse.core.internal.localstore.SafeFileOutputStream.<init>(SafeFileOutputStream.java:55)
+	at org.eclipse.core.internal.resources.SaveManager.writeTree(SaveManager.java:2097)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:814)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:806)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:763)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1011)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:506)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:398)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1434)
+!SUBENTRY 2 org.eclipse.core.resources 4 568 2021-02-24 14:30:16.273
+!MESSAGE Could not write metadata for '/practico3'.
+!STACK 0
+java.io.FileNotFoundException: /home/ezequiel/Escritorio/Universidad/TUDAI/Primero/Segundo cuatri/Programacion 2/Programas/.metadata/.plugins/org.eclipse.core.resources/.projects/practico3/1.tree (No existe el archivo o el directorio)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at org.eclipse.core.internal.localstore.SafeFileOutputStream.<init>(SafeFileOutputStream.java:55)
+	at org.eclipse.core.internal.resources.SaveManager.writeTree(SaveManager.java:2097)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:814)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:806)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:763)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1011)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:365)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:506)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:398)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1434)
+
+!ENTRY org.eclipse.jface 2 0 2021-02-24 14:30:21.094
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-02-24 14:30:21.094
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@65ad2b42,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@294ebe11,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.resources 4 1 2021-02-24 14:30:26.837
+!MESSAGE Core exception while retrieving the content description
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/practico3/src/practico3_ejercicio1/Persona.java)[368]: java.io.FileNotFoundException: /home/ezequiel/Escritorio/Universidad/TUDAI/Primero/Segundo cuatri/Programacion 2/Programas/practico3/src/practico3_ejercicio1/Persona.java (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:404)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager$LazyFileInputStream.ensureOpened(ContentDescriptionManager.java:159)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager$LazyFileInputStream.read(ContentDescriptionManager.java:176)
+	at java.base/java.io.InputStream.read(InputStream.java:205)
+	at org.eclipse.core.internal.content.LazyInputStream.loadBlock(LazyInputStream.java:104)
+	at org.eclipse.core.internal.content.LazyInputStream.ensureAvailable(LazyInputStream.java:68)
+	at org.eclipse.core.internal.content.LazyInputStream.read(LazyInputStream.java:127)
+	at org.eclipse.core.internal.content.Util.getByteOrderMark(Util.java:122)
+	at org.eclipse.core.internal.content.TextContentDescriber.describe(TextContentDescriber.java:46)
+	at org.eclipse.core.internal.content.ContentType.describe(ContentType.java:182)
+	at org.eclipse.core.internal.content.ContentType.internalGetDescriptionFor(ContentType.java:473)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:391)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:395)
+	at org.eclipse.core.internal.content.ContentTypeMatcher.getDescriptionFor(ContentTypeMatcher.java:82)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.readDescription(ContentDescriptionManager.java:455)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.getDescriptionFor(ContentDescriptionManager.java:364)
+	at org.eclipse.core.internal.resources.File.getContentDescription(File.java:261)
+	at org.eclipse.core.internal.propertytester.FilePropertyTester.testContentType(FilePropertyTester.java:104)
+	at org.eclipse.core.internal.propertytester.FilePropertyTester.test(FilePropertyTester.java:56)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:65)
+	at org.eclipse.core.expressions.TestExpression.evaluate(TestExpression.java:107)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
+	at org.eclipse.core.internal.expressions.AdaptExpression.evaluate(AdaptExpression.java:121)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.expressions.OrExpression.evaluate(OrExpression.java:26)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
+	at org.eclipse.core.expressions.WithExpression.evaluate(WithExpression.java:84)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
+	at org.eclipse.core.expressions.AndExpression.evaluate(AndExpression.java:36)
+	at org.eclipse.ui.internal.texteditor.codemining.CodeMiningProviderDescriptor.matches(CodeMiningProviderDescriptor.java:189)
+	at org.eclipse.ui.internal.texteditor.codemining.CodeMiningProviderRegistry.getProviders(CodeMiningProviderRegistry.java:110)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.installCodeMiningProviders(AbstractTextEditor.java:4026)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.installCodeMiningProviders(JavaEditor.java:4242)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.initializeSourceViewer(AbstractTextEditor.java:4016)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3477)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:64)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:454)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.createPartControl(JavaEditor.java:3079)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.createPartControl(CompilationUnitEditor.java:1523)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:999)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:964)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:405)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:332)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1209)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:114)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:528)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:73)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:114)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1083)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1434)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2021-02-24 14:30:26.838
+!MESSAGE File not found: /practico3/src/practico3_ejercicio1/Persona.java.
+!STACK 0
+java.io.FileNotFoundException: /home/ezequiel/Escritorio/Universidad/TUDAI/Primero/Segundo cuatri/Programacion 2/Programas/practico3/src/practico3_ejercicio1/Persona.java (No existe el archivo o el directorio)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:404)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager$LazyFileInputStream.ensureOpened(ContentDescriptionManager.java:159)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager$LazyFileInputStream.read(ContentDescriptionManager.java:176)
+	at java.base/java.io.InputStream.read(InputStream.java:205)
+	at org.eclipse.core.internal.content.LazyInputStream.loadBlock(LazyInputStream.java:104)
+	at org.eclipse.core.internal.content.LazyInputStream.ensureAvailable(LazyInputStream.java:68)
+	at org.eclipse.core.internal.content.LazyInputStream.read(LazyInputStream.java:127)
+	at org.eclipse.core.internal.content.Util.getByteOrderMark(Util.java:122)
+	at org.eclipse.core.internal.content.TextContentDescriber.describe(TextContentDescriber.java:46)
+	at org.eclipse.core.internal.content.ContentType.describe(ContentType.java:182)
+	at org.eclipse.core.internal.content.ContentType.internalGetDescriptionFor(ContentType.java:473)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:391)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:395)
+	at org.eclipse.core.internal.content.ContentTypeMatcher.getDescriptionFor(ContentTypeMatcher.java:82)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.readDescription(ContentDescriptionManager.java:455)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.getDescriptionFor(ContentDescriptionManager.java:364)
+	at org.eclipse.core.internal.resources.File.getContentDescription(File.java:261)
+	at org.eclipse.core.internal.propertytester.FilePropertyTester.testContentType(FilePropertyTester.java:104)
+	at org.eclipse.core.internal.propertytester.FilePropertyTester.test(FilePropertyTester.java:56)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:65)
+	at org.eclipse.core.expressions.TestExpression.evaluate(TestExpression.java:107)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
+	at org.eclipse.core.internal.expressions.AdaptExpression.evaluate(AdaptExpression.java:121)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.expressions.OrExpression.evaluate(OrExpression.java:26)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
+	at org.eclipse.core.expressions.WithExpression.evaluate(WithExpression.java:84)
+	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
+	at org.eclipse.core.expressions.AndExpression.evaluate(AndExpression.java:36)
+	at org.eclipse.ui.internal.texteditor.codemining.CodeMiningProviderDescriptor.matches(CodeMiningProviderDescriptor.java:189)
+	at org.eclipse.ui.internal.texteditor.codemining.CodeMiningProviderRegistry.getProviders(CodeMiningProviderRegistry.java:110)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.installCodeMiningProviders(AbstractTextEditor.java:4026)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.installCodeMiningProviders(JavaEditor.java:4242)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.initializeSourceViewer(AbstractTextEditor.java:4016)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3477)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:64)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:454)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.createPartControl(JavaEditor.java:3079)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.createPartControl(CompilationUnitEditor.java:1523)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:999)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:964)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:405)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:332)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1209)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:114)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:528)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:73)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:114)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1083)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1434)
+
+!ENTRY org.eclipse.core.resources 2 2 2021-02-24 14:32:14.930
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-02-24 14:32:14.930
+!MESSAGE The project description file (.project) for 'practico3' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2021-02-24 14:46:27.464 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=11.0.10
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-02-24 14:46:42.200
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-02-24 14:46:42.200
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47eae91d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c1a74d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)

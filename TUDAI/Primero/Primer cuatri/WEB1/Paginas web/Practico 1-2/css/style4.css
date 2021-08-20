@@ -1,0 +1,40 @@
+#importante{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    background-color: skyblue;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.imgnoticias{
+    margin: 5px;
+    color: blue;
+}
+.Navegacion{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    margin: 15px;
+    list-style: none;
+}
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+}
+.redessociales{
+    display:flex;
+    width: 100px; 
+    height: 100px;
+    
+}
+.main{
+    
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
