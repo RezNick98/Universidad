@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/home/ezequiel/Universidad/TUDAI/Primero/Primer cuatri/Programacion 1/2020/Programas 2020/.metadata/.plugins/org.eclipse.jdt.core
-646308851.index
-3507233208.index
