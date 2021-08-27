@@ -7,7 +7,7 @@
   <body>
     <?php
       $saludo = "Hola Mundo!";
-      echo "<h1>.$saludo.</h1>";
+      echo "<h1>$saludo</h1>";
      ?>
   </body>
 </html>
